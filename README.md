@@ -1,9 +1,9 @@
 # RzColorPickerView
 The best Color Picker is here..... You can set using RGB value &amp; HexCode too
 
-(https://cloud.githubusercontent.com/assets/13728552/13276986/f05e1526-daea-11e5-9cc8-45450ec04341.png)
+![screenshot](https://cloud.githubusercontent.com/assets/13728552/13277454/f522420e-daee-11e5-9b6d-b223c6b9c4c7.png)
 
-(https://cloud.githubusercontent.com/assets/13728552/13276987/f66b2a80-daea-11e5-85bf-59c7edbbe3a5.png)
+![screenshot1](https://cloud.githubusercontent.com/assets/13728552/13277455/f6962bc8-daee-11e5-86dc-18dcc7599bed.png)
 
 = = = = = = = = = = = = = = = = = = = =
 
