@@ -3,6 +3,8 @@ The best Color Picker is here..... You can set using RGB value &amp; HexCode too
 
 ![ScreenShot](https://raw.githubusercontent.com/Rakibrz/RzColorPickerView/master/screenshot.jpg)
 
+![ScreenShot](https://drive.google.com/open?id=0B9kyyhx_oBjJWmhrdUxndEstNDQ)
+
 ![ScreenShot1](https://raw.githubusercontent.com/Rakibrz/RzColorPickerView/master/screenshot1.jpg)
 
 = = = = = = = = = = = = = = = = = = = =
