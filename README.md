@@ -20,11 +20,16 @@ To retrieve a selected Color from RzColorPickerView You have to use "doneWithSel
 example : 
 
   RzColorPickerView *colorPicker = [[RzColorPickerView alloc] initWithFrame:self.view.bounds];
+  
   [self.view addSubview:colorPicker];
 
   [colorPicker doneWithSelectedColor:^(UIColor * _Nonnull newColor)
+  
   {
+  
       UIColor *selectedColor = newColor;
+      
       [self.view setBackgroundColor:selectedColor];
+      
   }];
 
