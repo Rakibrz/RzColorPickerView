@@ -24,5 +24,7 @@ example :
       UIColor *selectedColor = newColor;
       [self.view setBackgroundColor:selectedColor];
   }];
+  
+  ![ScreenShot](https://raw.githubusercontent.com/Rakibrz/RzColorPickerView/master/screenshot.jpg)
 
 
