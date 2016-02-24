@@ -1,0 +1,15 @@
+//
+//  ColorPickerDemo-Perefix.pch
+//  ColorPickerDemo
+//
+//  Created by Rakib Rz on 23/02/16.
+//  Copyright © 2016 Rakib Rz. All rights reserved.
+//
+
+#ifndef ColorPickerDemo_Perefix_pch
+#define ColorPickerDemo_Perefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ColorPickerDemo_Perefix_pch */
