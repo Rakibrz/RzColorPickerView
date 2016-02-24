@@ -26,5 +26,6 @@ example :
   }];
   
   ![ScreenShot](https://raw.githubusercontent.com/Rakibrz/RzColorPickerView/master/screenshot.jpg)
+  ![ScreenShot1](https://raw.githubusercontent.com/Rakibrz/RzColorPickerView/master/screenshot1.jpg)
 
 
