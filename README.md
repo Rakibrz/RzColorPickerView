@@ -1,5 +1,6 @@
 # RzColorPickerView
-The best Color Picker is here..... You can set using RGB value &amp; HexCode too
+The best Color Picker Library is here..... You can set using RGB value &amp; HexCode too
+use like a Photoshop Colors.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/13728552/13277454/f522420e-daee-11e5-9b6d-b223c6b9c4c7.png)
 
